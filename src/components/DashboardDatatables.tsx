@@ -35,9 +35,9 @@
 "use client";
 
 // import "@/survey-analytics/survey.analytics.datatables.css";
-import "datatables.net-buttons-dt/css/buttons.dataTables.css";
-import "datatables.net-colreorder-dt/css/colReorder.dataTables.css";
-import "datatables.net-dt/css/jquery.dataTables.css";
+// import "datatables.net-buttons-dt/css/buttons.dataTables.css";
+// import "datatables.net-colreorder-dt/css/colReorder.dataTables.css";
+// import "datatables.net-dt/css/jquery.dataTables.css";
 // import "datatables.net-dt/js/dataTables.dataTables.js";
 import dynamic from "next/dynamic";
 import { useEffect, useState } from "react";
